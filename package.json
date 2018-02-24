@@ -1,0 +1,15 @@
+{
+  "name": "no-eval-require",
+  "version": "1.0.1",
+  "description": "Simple require function without eval on client to load js files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "require",
+    "client"
+  ],
+  "author": "abelhabel",
+  "license": "ISC"
+}
